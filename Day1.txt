@@ -1,0 +1,25 @@
+// Installing /set up of labellmg in windows 
+
+// Image Annotation Basics: 
+it is the technique of labeling or single images using annotation text, software tools, or both to display the data features .
+
+ 
+// for image annotation u need to add metadata to dataset 
+
+//used in both  image and video annotation. 
+
+process- 
+coollect data->clean data ->annotate data->train model ->evaluate result  
+
+
+LabelImg has a variety of keyboard shortcuts that can help speed up your annotation process. Some of the most useful include:
+shirtcut ; 
+
+W: Create a bounding box
+D: Move to the next image
+A: Move to the previous image
+Ctrl + d: Copy the current label and rect box
+Delete: Delete the selected bounding box 
+
+
+https://youtu.be/pcM2-oLCWXQ?si=T7rQ5v_eFkrASLUy
