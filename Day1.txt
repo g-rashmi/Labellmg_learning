@@ -22,4 +22,3 @@ Ctrl + d: Copy the current label and rect box
 Delete: Delete the selected bounding box 
 
 
-https://youtu.be/pcM2-oLCWXQ?si=T7rQ5v_eFkrASLUy
