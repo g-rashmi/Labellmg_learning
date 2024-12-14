@@ -21,4 +21,5 @@ A: Move to the previous image
 Ctrl + d: Copy the current label and rect box
 Delete: Delete the selected bounding box 
 
+// in yolo format - class_id center_x center_y width height
 
